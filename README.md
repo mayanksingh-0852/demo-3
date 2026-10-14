@@ -1,1 +1,1 @@
- ## this is simple tailwindcss test and demo
+ ## This is simple tailwindcss test and Demo
